@@ -17,7 +17,6 @@ O usuário deve digitar um inteiro M.
 
 O programa deve exibir V, X, Y, Z
 
-
 ### Exemplo 1:
 
 Entrada:
